@@ -11,14 +11,14 @@ Project Summary & Pictures
   
   Blog
   
-  Project Management Tool Public Access (cloud.vashgreenschools.org) (background docs here)
-  
   Speeches (Vash & Friends)
   
   Vash Social Media  
   
+  Project Management Tool Public Access (cloud.vashgreenschools.org) (background docs here)
   
-  Backend:
-  - Goal: 
+  
+Backend / Nextcloud
+Goal: Project Management, enable Vash to oversee a team of activists in implementation, full transparency on results & finacials of the project. Upload of "before-after" photo & video documentation for the schools, ideally + location on a map.
   
 
