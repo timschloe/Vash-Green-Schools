@@ -2,11 +2,10 @@
 Vash Green Schools Homepage
 
 Landing Page 
+Goal: "Face" of the Project, first point of contact with followers, donors and contributers
+
 
 Project Summary & Pictures
-
-
-Links: 
 
   Podcast "Same Storm, Different Boats"
   
@@ -16,5 +15,10 @@ Links:
   
   Speeches (Vash & Friends)
   
+  Vash Social Media  
   
-Vash Social Media
+  
+  Backend:
+  - Goal: 
+  
+
