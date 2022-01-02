@@ -20,5 +20,7 @@ Project Summary & Pictures
   
 Backend / Nextcloud
 Goal: Project Management, enable Vash to oversee a team of activists in implementation, full transparency on results & finacials of the project. Upload of "before-after" photo & video documentation for the schools, ideally + location on a map.
+
+Critical: Vash cannot reach 25'000 schools by herself. Should empower Vash to include and supervise more acitvists, enable external (non-Ugandan) activists to re-view submitted photos and videos, flag if there are any issues.
   
 
