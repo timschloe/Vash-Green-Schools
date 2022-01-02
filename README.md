@@ -2,25 +2,34 @@
 Vash Green Schools Homepage
 
 Landing Page 
-Goal: "Face" of the Project, first point of contact with followers, donors and contributers
-
 
 Project Summary & Pictures
 
-  Podcast "Same Storm, Different Boats"
-  
-  Blog
-  
-  Speeches (Vash & Friends)
-  
-  Vash Social Media  
-  
-  Project Management Tool Public Access (cloud.vashgreenschools.org) (background docs here)
-  
-  
-Backend / Nextcloud
-Goal: Project Management, enable Vash to oversee a team of activists in implementation, full transparency on results & finacials of the project. Upload of "before-after" photo & video documentation for the schools, ideally + location on a map.
 
-Critical: Vash cannot reach 25'000 schools by herself. Should empower Vash to include and supervise more acitvists, enable external (non-Ugandan) activists to re-view submitted photos and videos, flag if there are any issues.
+Links: 
+
+  Podcast "Same Storm, Different Boats" (to-be-developed)
+  
+  Blog (to-be-developed)
+  
+  Speeches (Vash & Friends) (to-be-collected)
+  
+  Vash Social Media (to-be-developed)
+  
+  Project Management Tool / Nextcloud (see below)
+
+
+Key Goals for the project landing page:
+Outreach, Advocacy,
+
+----------------
+Project Management Tool Public Access (cloud.vashgreenschools.org) (background docs here)
   
 
+Key Goals of the Cloud Backend:
+- Enable Project Management, in particular on-boarding of other activists & controls by Vash
+- Allow full transparency by photo & video documentation of the project activities (ideally directly on a map).
+- Transparent financial accounts.
+- Record keeping of contacts to schools to allow for "1-year-later" follow ups.
+
+=> Workflow for adding more activists & schools must become super simple and straight forward on the backend, as there are a total of 25'000 schools in Uganda and most of them need solar & stove. 
